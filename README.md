@@ -1,6 +1,3 @@
-![Banner](https://github.com/Bharath-L-code/Bharath-L-code/raw/main/C:\Users\Dhanushree\Downloads\github-header-image.png)
-
-
 <h1 align="center">Hi 👋, I'm Bharath L</h1>
 <h3 align="center">Aspiring Software Development Engineer from Bengaluru, Karnataka, India.</h3>
 
