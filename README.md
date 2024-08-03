@@ -1,6 +1,6 @@
 
+![github-header-image (3)](https://github.com/user-attachments/assets/238722ff-0ef5-459b-8a69-9c25b3a26565)
 
-![github-header-image (2)](https://github.com/user-attachments/assets/6d049351-247a-4357-a526-57070e1dfa08)
 
 
 <h1 align="center">Hi 👋, I'm Bharath L</h1>
