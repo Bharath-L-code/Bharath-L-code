@@ -1,6 +1,7 @@
 
 
-![github-header-image](https://github.com/user-attachments/assets/b4d505ea-8ea2-45d8-b69c-6c7d42381e7b)
+![github-header-image (2)](https://github.com/user-attachments/assets/6d049351-247a-4357-a526-57070e1dfa08)
+
 
 <h1 align="center">Hi 👋, I'm Bharath L</h1>
 <h3 align="center">Aspiring Software Development Engineer from Bengaluru, Karnataka, India.</h3>
