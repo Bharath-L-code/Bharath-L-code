@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **bharathait20.24@gmail.com**
 
-- ⚡ Fun fact **Why did the developer go to therapy? Too many "unresolved issues"! 🛋**
+- ⚡ Fun fact **Why did the developer go to therapy? Too many "unresolved issues"!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
