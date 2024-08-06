@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharath-l-code&label=Profile%20views&color=0e75b6&style=flat" alt="bharath-l-code" /> </p>
 
-- 🌱 I’m currently learning **Java Development & Web Technologies**
+-  I’m currently learning **Java Development & Web Technologies**
 
 - 💬 Ask me about **Programming Memes...!**
 
 - 📫 How to reach me **bharathait20.24@gmail.com**
 
-- ⚡ Fun fact **Why did the developer go to therapy? Too many "unresolved issues"! 🛋️🤯**
+- ⚡ Fun fact **Why did the developer go to therapy? Too many "unresolved issues"! 🛋**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
